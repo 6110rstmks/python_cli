@@ -1,0 +1,4 @@
+create_timestamp,player_id,score
+2019/09/13 10:53:40,player886,89
+2012/10/23 13:32:05,player622,86
+2012/10/23 13:32:05,player162,86
